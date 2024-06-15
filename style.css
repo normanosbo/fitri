@@ -1,0 +1,39 @@
+body {
+    body {
+        background-image: url("gambar-background.jpg");
+        background-size: cover; 
+        background-repeat: no-repeat;
+        background-position: center; 
+    }
+    
+    
+    font-family: Arial, sans-serif;
+    margin: 15px auto;
+    padding: 10px;
+    color: #463d3d;
+    max-width: 80px; 
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: #bec8f8;
+    text-align: center;
+}
+
+h2 {
+    color: #74fca1;
+}
+
+p {
+    color: #b18c8c;
+    line-height: 1.6;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    width: 65%; 
+}
